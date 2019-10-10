@@ -15,6 +15,7 @@ A collection of resources on Synology NAS
 * [N4S4/synology-api](https://github.com/N4S4/synology-api) - A Python wrapper around Synology API
 * [skarppi/python-photostation](https://github.com/skarppi/python-photostation) - A Python API to communicate with Photo Station running on Synology NAS.
 * [aerialls/synology-srm](https://github.com/aerialls/synology-srm) - Python Synology SRM API client
+* [DazEdword/synology-toolset](https://github.com/DazEdword/synology-toolset) - A Python API wrapper and toolset for interacting with Synology NAS devices using DiskStation Manager (DSM).
 
 ### Node.js
 * [kwent/syno](https://github.com/kwent/syno) - Simple Node.js wrapper and CLI for Synology DSM REST API 5.x and 6.x.
@@ -31,6 +32,12 @@ A collection of resources on Synology NAS
 ### Swift
 * [Thomaslegravier/SynologySwift](https://github.com/Thomaslegravier/SynologySwift) - Swift library for accessing Synology NAS and use DiskStation APIs.
 
+### Kotlin
+* [landicefu/SynologyAPI](https://github.com/landicefu/SynologyAPI) - Download Station API wrapper
+
+### C++
+* [kanakodavis/SynologyAPI](https://github.com/kanakodavis/SynologyAPI) - A library to connect to the API of a Synology box. Primarily focused on the AudioStation – for now. (latest commit in 2015)
+
 
 ## Audio Station Lyrics Module
 
@@ -41,3 +48,7 @@ A collection of resources on Synology NAS
 ## Chatbot
 
 * [antoine-aumjaud/api-synology-chatbot](https://github.com/antoine-aumjaud/api-synology-chatbot) - API - Synology chatbot: Linked to Google API.AI
+
+## Misc
+
+* [fabtesta/synology-surveillance-api-motion-mqtt-gifs](https://github.com/fabtesta/synology-surveillance-api-motion-mqtt-gifs) - A python script to create animated gifs from videos recorded by cameras attached to Synology Surveillance Station and publish their path location via MQTT
