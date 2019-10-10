@@ -60,3 +60,4 @@ A collection of resources on Synology NAS
 * [jdel/sspks](https://github.com/jdel/sspks) - A very simple Synology Package Server, reverse engineered from the official Synology package repository and SynoCommunity.
 * [jdel/gosspks](https://github.com/jdel/gosspks) - A very simple Synology Package Server written in Go
 * [seansfkelley/synology-download-manager](https://github.com/seansfkelley/synology-download-manager) - An open source browser extension for adding/managing download tasks to your Synology DiskStation.
+* [Photo StatLr](https://github.com/flingo64/PhotoStation-Upload-Lr-Plugin) - Photo StatLr (aka PhotoStation Upload) is a Lightroom Publish and Export Service Plugin that enables the export /publishing of photos and videos from Lr to a Synology Photo Station. It uploads the photos/videos and all required thumbnails. It can download comments and ratings and do a real two-way synch of various metadata (tags, ratings, labels).
