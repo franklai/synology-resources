@@ -5,6 +5,8 @@ A collection of resources on Synology NAS
 ## Packages
 
 * [SynoCommunity](https://synocommunity.com)
+* [alexandregz/gogs-spk](https://github.com/alexandregz/gogs-spk) - spk (Synology package) to install gogs into Synology NAS
+* [bandesz/AirConnect-Synology](https://github.com/bandesz/AirConnect-Synology) - AirConnect package for Synology NAS and Synology Router
 
 ## API wrapper
 
@@ -25,6 +27,9 @@ A collection of resources on Synology NAS
 ### C#
 * [DotNetDevs/Synology](https://github.com/DotNetDevs/Synology) - Synology Client for Build-In APIs for .NET Projects
 * [cyberoot/SynoSharp](https://github.com/cyberoot/SynoSharp) - C# Implementation of official Synology Web API
+
+### PHP
+* [zzarbi/synology](https://github.com/zzarbi/synology) - PHP Implementation of Synology Download Station
 
 ### Ruby
 * [fdietz/synology-download-station](https://github.com/fdietz/synology-download-station) - Synology Download Station Ruby API (latest commit in 2011)
@@ -52,3 +57,6 @@ A collection of resources on Synology NAS
 ## Misc
 
 * [fabtesta/synology-surveillance-api-motion-mqtt-gifs](https://github.com/fabtesta/synology-surveillance-api-motion-mqtt-gifs) - A python script to create animated gifs from videos recorded by cameras attached to Synology Surveillance Station and publish their path location via MQTT
+* [jdel/sspks](https://github.com/jdel/sspks) - A very simple Synology Package Server, reverse engineered from the official Synology package repository and SynoCommunity.
+* [jdel/gosspks](https://github.com/jdel/gosspks) - A very simple Synology Package Server written in Go
+* [seansfkelley/synology-download-manager](https://github.com/seansfkelley/synology-download-manager) - An open source browser extension for adding/managing download tasks to your Synology DiskStation.
