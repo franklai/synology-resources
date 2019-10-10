@@ -14,6 +14,7 @@ A collection of resources on Synology NAS
 * [snjoetw/py-synology](https://github.com/snjoetw/py-synology) - Python API for Synology Surveillance Station
 * [N4S4/synology-api](https://github.com/N4S4/synology-api) - A Python wrapper around Synology API
 * [skarppi/python-photostation](https://github.com/skarppi/python-photostation) - A Python API to communicate with Photo Station running on Synology NAS.
+* [aerialls/synology-srm](https://github.com/aerialls/synology-srm) - Python Synology SRM API client
 
 ### Node.js
 * [kwent/syno](https://github.com/kwent/syno) - Simple Node.js wrapper and CLI for Synology DSM REST API 5.x and 6.x.
@@ -36,3 +37,7 @@ A collection of resources on Synology NAS
 * [Synology Lyric](https://fujirou2.blogspot.com/2013/01/synology-audio-station-lyrics-module.html) - Lyricwiki, MetroLyrics, and more...
 * [歌詞外掛 by RayKuo](https://blog.ladsai.com/synology-audiostation-歌詞外掛-2.html) - 魔鏡歌詞、千千靜聽
 * [Synology Lrc Plugin](https://github.com/LudySu/Synology-LrcPlugin) - 网易歌词插件
+
+## Chatbot
+
+* [antoine-aumjaud/api-synology-chatbot](https://github.com/antoine-aumjaud/api-synology-chatbot) - API - Synology chatbot: Linked to Google API.AI
