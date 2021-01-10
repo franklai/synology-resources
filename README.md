@@ -51,6 +51,11 @@ A collection of resources on Synology NAS
 * [Synology Lrc Plugin](https://github.com/LudySu/Synology-LrcPlugin) - 网易歌词插件
 * [Synology Audio Station 알송 가사 플러그인 0.6](https://acidpop.tistory.com/308) - a lyric plugin for Korean song
 
+## Download Station Plugins
+* [dlm.codemonster.be](http://www.dlm.codemonster.be/index) - search plugin
+* [narsimplyme/Synology-DLM-for-nyaa](https://github.com/narsimplyme/Synology-DLM-for-nyaa) - search plugin for nyaa
+
+
 ## Chatbot
 
 * [antoine-aumjaud/api-synology-chatbot](https://github.com/antoine-aumjaud/api-synology-chatbot) - API - Synology chatbot: Linked to Google API.AI
